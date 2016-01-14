@@ -1,19 +1,3 @@
-"There is no Store with code: %1","There is no Store with code: %1",module,MauroNigrele_SetupTools
-"There is no Website with code: %s","There is no Website with code: %s",module,MauroNigrele_SetupTools
-"There is no Store with code: %s","There is no Store with code: %s",module,MauroNigrele_SetupTools
-"There is no Theme with code: %1","There is no Theme with code: %1",module,MauroNigrele_SetupTools
-"There is no Website with code: %1","There is no Website with code: %1",module,MauroNigrele_SetupTools
-"There is no Theme with code: %s","There is no Theme with code: %s",module,MauroNigrele_SetupTools
-..,..,module,MauroNigrele_SetupTools
-"A store with code: %s already exists.","A store with code: %s already exists.",module,MauroNigrele_SetupTools
-"Invalid Store.","Invalid Store.",module,MauroNigrele_SetupTools
-"A Store Group with name: %s, already exists.","A Store Group with name: %s, already exists.",module,MauroNigrele_SetupTools
-"Invalid Group.","Invalid Group.",module,MauroNigrele_SetupTools
-"A Website with code: %s, already exists.","A Website with code: %s, already exists.",module,MauroNigrele_SetupTools
-"Invalid Website.","Invalid Website.",module,MauroNigrele_SetupTools
-"A Root Category with name: %s, already exists.","A Root Category with name: %s, already exists.",module,MauroNigrele_SetupTools
-"Invalid Category.","Invalid Category.",module,MauroNigrele_SetupTools
-"Category Is Not Root.","Category Is Not Root.",module,MauroNigrele_SetupTools
 "Read Details","Read Details",module,Magento_AdminNotification
 "Mark as Read","Mark as Read",module,Magento_AdminNotification
 "Are you sure?","Are you sure?",module,Magento_AdminNotification
